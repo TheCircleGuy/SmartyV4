@@ -108,14 +108,14 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 50px;
+    padding: 24px;
     background-color: #fff;
     flex-wrap: wrap;
 }
 
 .content-left {
     flex: 1;
-    padding-left: 10rem;
+    padding-left: 5rem;
 }
 
 .title {
@@ -445,7 +445,7 @@ body {
 }
 
 .text-item {
-    margin-bottom: 30px;
+    margin-bottom: 65px;
     position: relative;
     text-align: left;
 }
